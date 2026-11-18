@@ -1,6 +1,6 @@
 # Manifest
 
-Files the job-search-kit installer (`add-network-addon`) copies into a job-search-kit folder. Sources are relative to this add-on; destinations are relative to the job-search-kit folder. Destinations are only ever under `.claude/skills/` or `.claude/agents/`. Update, reinstall and removal all use this list, and nothing else is touched.
+Files the job-search-kit installer (`add-addon`) copies into a job-search-kit folder. Sources are relative to this add-on; destinations are relative to the job-search-kit folder. Destinations are only ever under `.claude/skills/` or `.claude/agents/`. Update, reinstall and removal all use this list, and nothing else is touched.
 
 | source | destination |
 |---|---|
